@@ -6,7 +6,7 @@
  <br>
  <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanduarte56&showicons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanduarte56&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanduarte56&theme=tokyonight)
 <hr>
 <div style='display:flex; gap:10px; flex-wrap:wrap; align-items:center;'>
  <a target='_blank' href='https://github.com/ruanduarte56'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
