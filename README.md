@@ -2,7 +2,7 @@
 -💢Skills em HTML,Css,JS,TS <br>
 -📜 Atualmente Estou estudando PHP e Laravel <br>
 -✔Cursando Primeiro semestre em Ciencias da Computação começando em agosto <br>
--✍Objetivo de participar de um grande Sistema BackEnd
+-✍Objetivo de participar de um grande Sistema Back ou Front End
  <br>
  <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanduarte56&showicons=true&theme=radical)
